@@ -99,5 +99,6 @@ When using this archive, please [cite](CITE.bib) the above paper:
       author = {Urbano, Juli\'{a}n and Lima, Harlley and Hanjalic, Alan},
       booktitle = {International ACM SIGIR Conference on Research and Development in Information Retrieval},
       title = {{Statistical Significance Testing in Information Retrieval: An Empirical Analysis of Type I, Type II and Type III Errors}},
-      year = {2019}
+      year = {2019},
+	  pages = {505--514}
     }
