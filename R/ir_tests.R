@@ -1,4 +1,3 @@
-source("R/test.R")
 Rcpp::sourceCpp("R/test.cpp")
 
 test_t <- function(b, e) {

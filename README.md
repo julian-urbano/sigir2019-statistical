@@ -51,7 +51,7 @@ We also provide an implementation of all five tests and, in particular, C++ impl
 
 ```r
 > # import tests
-> source("R/test.R")
+> source("R/ir_tests.R")
 > 
 > # as example, use systems 125 and 126 as baseline and experimental
 > dat <- rio::import("data/adhoc8_ap.csv")
